@@ -10,8 +10,8 @@
 //#@ File (label = "Output directory", style = "directory") output
 //#@ String (label = "File suffix", value = ".tif") suffix
 
-input = "C:\\Users\\Anna\\Desktop\\IJ_batch\\images";
-output = "C:\\Users\\Anna\\Desktop\\IJ_batch\\output";
+input = "C:/Users/Anna/Desktop/IJ_batch/images";
+output = "C:/Users/Anna/Desktop/IJ_batch/output";
 suffix = ".tiff";
 
 processFolder(input);
